@@ -19,10 +19,7 @@ void update(){
 }
 
 int main(){
-    W65C02 x = W65C02(update);
 
-
-    x.doReset();
 }
 
 
